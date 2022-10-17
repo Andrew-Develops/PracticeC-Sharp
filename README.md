@@ -1,2 +1,2 @@
-# LearningC-Sharp
+# PracticeC-Sharp
 Learning C#
