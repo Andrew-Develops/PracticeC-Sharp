@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LoopThroughWithForeach/1.0.0": {
+        "runtime": {
+          "LoopThroughWithForeach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoopThroughWithForeach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

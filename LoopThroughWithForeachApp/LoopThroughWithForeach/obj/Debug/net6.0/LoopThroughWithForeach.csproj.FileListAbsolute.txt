@@ -1,0 +1,15 @@
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\LoopThroughWithForeachApp\LoopThroughWithForeach\bin\Debug\net6.0\LoopThroughWithForeach.exe
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\LoopThroughWithForeachApp\LoopThroughWithForeach\bin\Debug\net6.0\LoopThroughWithForeach.deps.json
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\LoopThroughWithForeachApp\LoopThroughWithForeach\bin\Debug\net6.0\LoopThroughWithForeach.runtimeconfig.json
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\LoopThroughWithForeachApp\LoopThroughWithForeach\bin\Debug\net6.0\LoopThroughWithForeach.dll
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\LoopThroughWithForeachApp\LoopThroughWithForeach\bin\Debug\net6.0\LoopThroughWithForeach.pdb
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\LoopThroughWithForeachApp\LoopThroughWithForeach\obj\Debug\net6.0\LoopThroughWithForeach.csproj.AssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\LoopThroughWithForeachApp\LoopThroughWithForeach\obj\Debug\net6.0\LoopThroughWithForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\LoopThroughWithForeachApp\LoopThroughWithForeach\obj\Debug\net6.0\LoopThroughWithForeach.AssemblyInfoInputs.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\LoopThroughWithForeachApp\LoopThroughWithForeach\obj\Debug\net6.0\LoopThroughWithForeach.AssemblyInfo.cs
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\LoopThroughWithForeachApp\LoopThroughWithForeach\obj\Debug\net6.0\LoopThroughWithForeach.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\LoopThroughWithForeachApp\LoopThroughWithForeach\obj\Debug\net6.0\LoopThroughWithForeach.dll
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\LoopThroughWithForeachApp\LoopThroughWithForeach\obj\Debug\net6.0\refint\LoopThroughWithForeach.dll
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\LoopThroughWithForeachApp\LoopThroughWithForeach\obj\Debug\net6.0\LoopThroughWithForeach.pdb
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\LoopThroughWithForeachApp\LoopThroughWithForeach\obj\Debug\net6.0\LoopThroughWithForeach.genruntimeconfig.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\LoopThroughWithForeachApp\LoopThroughWithForeach\obj\Debug\net6.0\ref\LoopThroughWithForeach.dll
