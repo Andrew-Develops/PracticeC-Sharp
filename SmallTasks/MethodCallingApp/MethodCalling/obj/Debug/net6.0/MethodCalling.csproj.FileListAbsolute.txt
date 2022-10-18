@@ -1,0 +1,15 @@
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MethodCallingApp\MethodCalling\bin\Debug\net6.0\MethodCalling.exe
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MethodCallingApp\MethodCalling\bin\Debug\net6.0\MethodCalling.deps.json
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MethodCallingApp\MethodCalling\bin\Debug\net6.0\MethodCalling.runtimeconfig.json
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MethodCallingApp\MethodCalling\bin\Debug\net6.0\MethodCalling.dll
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MethodCallingApp\MethodCalling\bin\Debug\net6.0\MethodCalling.pdb
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MethodCallingApp\MethodCalling\obj\Debug\net6.0\MethodCalling.csproj.AssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MethodCallingApp\MethodCalling\obj\Debug\net6.0\MethodCalling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MethodCallingApp\MethodCalling\obj\Debug\net6.0\MethodCalling.AssemblyInfoInputs.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MethodCallingApp\MethodCalling\obj\Debug\net6.0\MethodCalling.AssemblyInfo.cs
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MethodCallingApp\MethodCalling\obj\Debug\net6.0\MethodCalling.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MethodCallingApp\MethodCalling\obj\Debug\net6.0\MethodCalling.dll
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MethodCallingApp\MethodCalling\obj\Debug\net6.0\refint\MethodCalling.dll
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MethodCallingApp\MethodCalling\obj\Debug\net6.0\MethodCalling.pdb
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MethodCallingApp\MethodCalling\obj\Debug\net6.0\MethodCalling.genruntimeconfig.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MethodCallingApp\MethodCalling\obj\Debug\net6.0\ref\MethodCalling.dll
