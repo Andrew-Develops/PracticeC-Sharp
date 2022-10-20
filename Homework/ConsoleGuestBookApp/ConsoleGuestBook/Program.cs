@@ -13,7 +13,7 @@ do
     // adding family to the list
     Guest.AddGuestToParty(partyList, family.familyName, family.countMembers);
 
-    // continue adding or cloase the list
+    // continue adding or close the list
     closeList = Guest.KeepAddingMembers();
 } while (closeList == false);
 
