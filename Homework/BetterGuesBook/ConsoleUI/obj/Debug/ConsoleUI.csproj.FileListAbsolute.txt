@@ -1,0 +1,11 @@
+D:\Personal\C#\BetterGuesBook\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\Personal\C#\BetterGuesBook\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\Personal\C#\BetterGuesBook\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\Personal\C#\BetterGuesBook\ConsoleUI\bin\Debug\GuestBookLibrary.dll
+D:\Personal\C#\BetterGuesBook\ConsoleUI\bin\Debug\GuestBookLibrary.pdb
+D:\Personal\C#\BetterGuesBook\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+D:\Personal\C#\BetterGuesBook\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+D:\Personal\C#\BetterGuesBook\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Personal\C#\BetterGuesBook\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+D:\Personal\C#\BetterGuesBook\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\Personal\C#\BetterGuesBook\ConsoleUI\obj\Debug\ConsoleUI.pdb

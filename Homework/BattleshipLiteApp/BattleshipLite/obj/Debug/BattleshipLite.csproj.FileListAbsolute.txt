@@ -1,0 +1,11 @@
+D:\Personal\C#\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLite.exe.config
+D:\Personal\C#\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLite.exe
+D:\Personal\C#\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLite.pdb
+D:\Personal\C#\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.AssemblyReference.cache
+D:\Personal\C#\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.SuggestedBindingRedirects.cache
+D:\Personal\C#\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.CoreCompileInputs.cache
+D:\Personal\C#\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.exe
+D:\Personal\C#\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.pdb
+D:\Personal\C#\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLiteLibrary.dll
+D:\Personal\C#\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLiteLibrary.pdb
+D:\Personal\C#\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.CopyComplete
