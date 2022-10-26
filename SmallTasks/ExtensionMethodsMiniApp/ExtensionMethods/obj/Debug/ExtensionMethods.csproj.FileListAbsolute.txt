@@ -1,0 +1,8 @@
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\ExtensionMethodsMiniApp\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\ExtensionMethodsMiniApp\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\ExtensionMethodsMiniApp\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\ExtensionMethodsMiniApp\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\ExtensionMethodsMiniApp\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\ExtensionMethodsMiniApp\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\ExtensionMethodsMiniApp\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\ExtensionMethodsMiniApp\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

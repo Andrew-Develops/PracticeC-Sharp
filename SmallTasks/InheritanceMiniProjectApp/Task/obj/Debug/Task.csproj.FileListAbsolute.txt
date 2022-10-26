@@ -1,0 +1,8 @@
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\InheritanceMiniProjectApp\Task\bin\Debug\Task.exe.config
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\InheritanceMiniProjectApp\Task\bin\Debug\Task.exe
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\InheritanceMiniProjectApp\Task\bin\Debug\Task.pdb
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\InheritanceMiniProjectApp\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\InheritanceMiniProjectApp\Task\obj\Debug\Task.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\InheritanceMiniProjectApp\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\InheritanceMiniProjectApp\Task\obj\Debug\Task.exe
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\InheritanceMiniProjectApp\Task\obj\Debug\Task.pdb

@@ -1,0 +1,8 @@
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\CardGameApp\CardGameUI\bin\Debug\CardGameUI.exe.config
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\CardGameApp\CardGameUI\bin\Debug\CardGameUI.exe
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\CardGameApp\CardGameUI\bin\Debug\CardGameUI.pdb
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\CardGameApp\CardGameUI\obj\Debug\CardGameUI.csproj.AssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\CardGameApp\CardGameUI\obj\Debug\CardGameUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\CardGameApp\CardGameUI\obj\Debug\CardGameUI.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\CardGameApp\CardGameUI\obj\Debug\CardGameUI.exe
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\CardGameApp\CardGameUI\obj\Debug\CardGameUI.pdb
