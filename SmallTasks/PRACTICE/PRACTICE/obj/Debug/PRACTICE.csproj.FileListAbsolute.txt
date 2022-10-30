@@ -1,8 +1,0 @@
-C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\PRACTICE\PRACTICE\bin\Debug\PRACTICE.exe.config
-C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\PRACTICE\PRACTICE\bin\Debug\PRACTICE.exe
-C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\PRACTICE\PRACTICE\bin\Debug\PRACTICE.pdb
-C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\PRACTICE\PRACTICE\obj\Debug\PRACTICE.csproj.AssemblyReference.cache
-C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\PRACTICE\PRACTICE\obj\Debug\PRACTICE.csproj.SuggestedBindingRedirects.cache
-C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\PRACTICE\PRACTICE\obj\Debug\PRACTICE.csproj.CoreCompileInputs.cache
-C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\PRACTICE\PRACTICE\obj\Debug\PRACTICE.exe
-C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\PRACTICE\PRACTICE\obj\Debug\PRACTICE.pdb

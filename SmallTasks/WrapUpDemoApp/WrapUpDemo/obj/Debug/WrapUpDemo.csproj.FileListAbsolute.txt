@@ -1,0 +1,8 @@
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\WrapUpDemoApp\WrapUpDemo\bin\Debug\WrapUpDemo.exe.config
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\WrapUpDemoApp\WrapUpDemo\bin\Debug\WrapUpDemo.exe
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\WrapUpDemoApp\WrapUpDemo\bin\Debug\WrapUpDemo.pdb
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.csproj.AssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.exe
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\SmallTasks\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.pdb
