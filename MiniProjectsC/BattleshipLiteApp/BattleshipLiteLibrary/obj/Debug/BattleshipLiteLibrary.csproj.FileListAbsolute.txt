@@ -1,0 +1,12 @@
+D:\Personal\C#\BattleshipLiteApp\BattleshipLiteLibrary\bin\Debug\BattleshipLiteLibrary.dll
+D:\Personal\C#\BattleshipLiteApp\BattleshipLiteLibrary\bin\Debug\BattleshipLiteLibrary.pdb
+D:\Personal\C#\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.csproj.AssemblyReference.cache
+D:\Personal\C#\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.csproj.CoreCompileInputs.cache
+D:\Personal\C#\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.dll
+D:\Personal\C#\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.pdb
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MiniProjects\BattleshipLiteApp\BattleshipLiteLibrary\bin\Debug\BattleshipLiteLibrary.dll
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MiniProjects\BattleshipLiteApp\BattleshipLiteLibrary\bin\Debug\BattleshipLiteLibrary.pdb
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MiniProjects\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.csproj.AssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MiniProjects\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MiniProjects\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.dll
+C:\Users\Andrew\Documents\GitHub\PracticeC-Sharp\MiniProjects\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.pdb
