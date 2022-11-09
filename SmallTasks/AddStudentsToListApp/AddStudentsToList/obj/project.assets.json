@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrew\\Documents\\GitHub\\PracticeC-Sharp\\AddStudentsToListApp\\AddStudentsToList\\AddStudentsToList.csproj",
+      "projectUniqueName": "C:\\Users\\Andrew\\Documents\\GitHub\\PracticeC-Sharp\\SmallTasks\\AddStudentsToListApp\\AddStudentsToList\\AddStudentsToList.csproj",
       "projectName": "AddStudentsToList",
-      "projectPath": "C:\\Users\\Andrew\\Documents\\GitHub\\PracticeC-Sharp\\AddStudentsToListApp\\AddStudentsToList\\AddStudentsToList.csproj",
+      "projectPath": "C:\\Users\\Andrew\\Documents\\GitHub\\PracticeC-Sharp\\SmallTasks\\AddStudentsToListApp\\AddStudentsToList\\AddStudentsToList.csproj",
       "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrew\\Documents\\GitHub\\PracticeC-Sharp\\AddStudentsToListApp\\AddStudentsToList\\obj\\",
+      "outputPath": "C:\\Users\\Andrew\\Documents\\GitHub\\PracticeC-Sharp\\SmallTasks\\AddStudentsToListApp\\AddStudentsToList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

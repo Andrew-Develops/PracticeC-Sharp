@@ -1,6 +1,0 @@
-D:\Personal\C#\BetterGuesBook\GuestBookLibrary\bin\Debug\GuestBookLibrary.dll
-D:\Personal\C#\BetterGuesBook\GuestBookLibrary\bin\Debug\GuestBookLibrary.pdb
-D:\Personal\C#\BetterGuesBook\GuestBookLibrary\obj\Debug\GuestBookLibrary.csproj.AssemblyReference.cache
-D:\Personal\C#\BetterGuesBook\GuestBookLibrary\obj\Debug\GuestBookLibrary.csproj.CoreCompileInputs.cache
-D:\Personal\C#\BetterGuesBook\GuestBookLibrary\obj\Debug\GuestBookLibrary.dll
-D:\Personal\C#\BetterGuesBook\GuestBookLibrary\obj\Debug\GuestBookLibrary.pdb
